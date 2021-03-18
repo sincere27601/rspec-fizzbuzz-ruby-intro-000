@@ -13,10 +13,8 @@ def "fizzbuzz" do
     fizzbuzz_15 = fizzbuzz(15)
 
     expect(fizzbuzz_15).to eq("FizzBuzz")
-  else 
+  else
     puts "nil!"
   end
   end
   end
-
-
